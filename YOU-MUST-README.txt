@@ -1,6 +1,6 @@
 How to install this project?
 1. Download or clone this project.
-2. Create a database with the name api-product
+2. Create a database with the name laravel-url-shortener
 3. Open this project in your favorite editor application.
 4. copy file .env.example and rename to .env
 4. Open a terminal and type the following command:
